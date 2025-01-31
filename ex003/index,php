@@ -17,8 +17,8 @@
         ao mesmo tempo
         */
  
-        $nome = "kauan";
-        $sobrenome = "felicissimo";
+        $nome = "Higor";
+        $sobrenome = "Oliveira";
        
         // A variavel abaixo recebe uma interpolação
         $frase = "seu nome é $nome, seu sobremone é $sobrenome";
